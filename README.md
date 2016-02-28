@@ -18,4 +18,4 @@ Krita 3.0 (recommended)
 
 ## Instalation
 
-to know how to install the brushes follow the manual installation instruction [here](https://docs.krita.org/Loading_and_Saving_Brushes#Loading_preset_packs_manually) 
+To know how to install the brushes follow the manual installation instruction [here](https://docs.krita.org/Loading_and_Saving_Brushes#Loading_preset_packs_manually) 
