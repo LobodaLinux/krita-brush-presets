@@ -2,6 +2,8 @@
 
 The brush presets I use to paint in [Krita](https://krita.org/).
 
+![alt brush-preview](/preview.png)
+
 ## Requirement
 
 Krita 2.9.11(minimum)
