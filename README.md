@@ -6,13 +6,18 @@ The brush presets I use to paint in [Krita](https://krita.org/).
 
 ## Requirement
 
-Krita 2.9.11(minimum)
-
 Krita 3.0 (recommended) 
 
 ## Version notes
 
-1.0 - Basic brushes that I use
+### 2.0
+
+Added some more presets and tweaked the original ones (works best with krita 3.0 and up)
+Also Added a bundle version.
+
+### 1.0
+
+Basic brushes that I use.
 
 ## Licence
 
